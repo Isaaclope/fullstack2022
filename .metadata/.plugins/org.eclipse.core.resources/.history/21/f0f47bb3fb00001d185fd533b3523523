@@ -1,0 +1,10 @@
+public class Main {
+public static void main(String[] args) {
+	Actividad profesorinformatica = new profesorinformatica();
+	Actividad profesormates = new profesormates();
+	Actividad profesororientación = new profesororientación();
+	
+	System.out.println(profesorinformatica.getActividad());
+	System.out.println(profesormates.getActividad());
+	System.out.println(profesororientación.getActividad());
+}

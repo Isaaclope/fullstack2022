@@ -1,0 +1,11 @@
+package profesor;
+
+public class profesormates {
+
+	public String getActividad(){
+		return "Examen"
+		
+
+	}
+
+}

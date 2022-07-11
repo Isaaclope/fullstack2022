@@ -1,0 +1,8 @@
+package profesor;
+
+public class Experienciaservicio {
+
+	public interface ExperienciaServicio {
+		public int getExperiencia();
+	}
+}

@@ -1,0 +1,3 @@
+public interface profesor {
+public abstract String getActividad();
+}

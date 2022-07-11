@@ -1,0 +1,10 @@
+package profesor;
+
+public class Pocaexperienciaservicio implements ExpercienciaServicio{
+
+	public int getExperiencia() {
+		return 1;
+	}
+
+}
+

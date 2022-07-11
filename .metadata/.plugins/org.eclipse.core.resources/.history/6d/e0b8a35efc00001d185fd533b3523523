@@ -1,0 +1,12 @@
+public class Main {
+public static void main(String[] args) {
+	profesor profesorinformatica = new profesorinformatica();
+	profesor profesormates = new profesormates();
+	profesor profesororientación = new profesororientación();
+
+	
+	System.out.println(profesorinformatica.getprofesor());
+	System.out.println(profesormates.getprofesor());
+	System.out.println(profesororientación.getprofesor());
+}
+}

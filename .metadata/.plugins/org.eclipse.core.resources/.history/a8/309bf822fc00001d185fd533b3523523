@@ -1,0 +1,10 @@
+package profesor;
+
+public class profesororientación implements profesor {
+
+	public String getActividad(){
+		return "Curriculum";
+	
+	}
+
+}

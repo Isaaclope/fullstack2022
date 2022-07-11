@@ -1,0 +1,11 @@
+package profesor;
+
+public class profesorinformatica {
+
+	public String getActividad() {
+		return "Programa";
+		
+
+	}
+
+}

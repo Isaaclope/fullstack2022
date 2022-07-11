@@ -1,0 +1,27 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		String jdbcUrl = "http://localhost:8081/phpmyadmin/index.php?route=/database/structure&db=hibernate_demo";
+		String usuario = "hibernate_demo";
+		String password = "hibernate_demo";
+		
+		try {
+			System.out.println("conectado a la base de datos:" + jdbcUrl);
+			
+			connection con = DriverManager.getConnection(jdbcUrl, usuario, password);
+			
+			System.out.println("conexión exitosa");
+			
+		}
+		catch(Exception e) {
+			e.printStackTrace();
+			
+		}
+		
+		
+	
+
+	}
+
+}

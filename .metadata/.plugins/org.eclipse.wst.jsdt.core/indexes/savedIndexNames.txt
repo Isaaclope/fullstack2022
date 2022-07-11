@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\User\Desktop\fullstack2022\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2205171548.index
+1292908576.index
+4248937780.index
+4149782122.index

@@ -1,0 +1,5 @@
+package profesor;
+
+	public interface Actividad  {
+		public abstract String getActividad();
+		}
