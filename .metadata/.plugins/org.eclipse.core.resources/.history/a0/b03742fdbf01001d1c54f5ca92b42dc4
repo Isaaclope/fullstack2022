@@ -1,0 +1,27 @@
+package com.ejemplo;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class controlador {
+	
+	@RequestMapping
+	public String muestraPagina() {
+	// /WEB-INF/vista/paginaEjemplo.jsp
+	return "paginaEjemplo";
+	}
+	
+	// http://localhost:8080/mostrarFormulario
+	@RequestMapping("/mostrarformulario")
+	public String mostrarformulario() {
+		//WEB-INF/vista/formulario-hola.jsp
+		return "formulario-hola";
+	}
+	// http://localhost:8080/procesarFormulario
+	@RequestMapping("/procesarformulario")
+	public String procesarformulario() {
+		//WEB-INF/vista/hola.jsp
+		return "hola";
+	}
+	}

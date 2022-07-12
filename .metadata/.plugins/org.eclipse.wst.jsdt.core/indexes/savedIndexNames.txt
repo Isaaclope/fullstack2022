@@ -5,8 +5,6 @@ INDEX VERSION 1.4+C:\Users\User\Desktop\fullstack2022\.metadata\.plugins\org.ecl
 2205171548.index
 1436350132.index
 1292908576.index
-409250606.index
-958271614.index
 4248937780.index
 4149782122.index
 3932001929.index
