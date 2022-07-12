@@ -1,6 +1,10 @@
 #Tomcat publish data
-#Mon Jul 11 13:37:50 CEST 2022
+#Tue Jul 12 10:03:48 CEST 2022
 org.eclipse.jst.jee.server\:/binary\:D\:\\HelloWorld\\Spring_MCV_Ejemplo\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\User\\Desktop\\fullstack2022\\Spring_MCV_Ejemplo\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\User\\Desktop\\fullstack2022\\Spring_MCV_Ejemplo\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\User\\Desktop\\fullstack2022\\Web-SpringModulo5\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
 org.eclipse.jst.jee.server\:/binary\:D\:\\HelloWorld\\Spring_MCV_Ejemplo\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\User\\Desktop\\fullstack2022\\Web-SpringModulo5\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
 org.eclipse.jst.jee.server\:/binary\:D\:\\HelloWorld\\Web-SpringModulo5\\src\\main\\webapp\\WEB-INF\\lib\\libs\\spring-web-5.3.9-sources.jar=WEB-INF/lib/libs/spring-web-5.3.9-sources.jar
 org.eclipse.jst.jee.server\:/binary\:D\:\\HelloWorld\\Web-SpringModulo5\\src\\main\\webapp\\WEB-INF\\lib\\libs\\spring-web-5.3.9.jar=WEB-INF/lib/libs/spring-web-5.3.9.jar

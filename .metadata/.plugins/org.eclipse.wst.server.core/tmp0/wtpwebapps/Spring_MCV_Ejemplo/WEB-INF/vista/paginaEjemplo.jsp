@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Spring MVC</title>
+<title>practica</title>
 </head>
 <body>
 
 <h1>
-Página principal del proyecto Spring MVC
+
 </h1>
 <a href="/Spring_MVC_Ejemplo/mostrarFormulario">Mostrar Formulario</a>
 

@@ -17,7 +17,7 @@ GET de HTTP -->
 	<input type="text" name="nombre" placeholder="
 	Tu nombre..." />
 	<br>
-	<label>CORREO:</label>
+	<label>EDAD:</label>
 	<input type="email"  name="email" placeholder="
 	Tu correo..."/>
 	<br>
